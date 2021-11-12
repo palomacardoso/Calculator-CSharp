@@ -1,0 +1,27 @@
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.exe.config
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.exe
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.pdb
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.csprojResolveAssemblyReference.cache
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora_WinForm.Calculadora.resources
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora_WinForm.Properties.Resources.resources
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.csproj.GenerateResource.Cache
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.exe
+C:\Users\lb20-13\Desktop\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.pdb
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.exe.config
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.exe
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.pdb
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora_WinForm.Calculadora.resources
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora_WinForm.Properties.Resources.resources
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.csproj.GenerateResource.cache
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.exe
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.pdb
+J:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.csprojResolveAssemblyReference.cache
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.exe.config
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.exe
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.pdb
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.exe
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\bin\Debug\Calculadora WinForm.pdb
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.csprojResolveAssemblyReference.cache
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora_WinForm.Calculadora.resources
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora_WinForm.Properties.Resources.resources
+F:\FACULDADE\4 SEMESTRE\Linguagem de Programação 2\Atividades\Calculadora WinForm\Calculadora WinForm\obj\Debug\Calculadora WinForm.csproj.GenerateResource.Cache
